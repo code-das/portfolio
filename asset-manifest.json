@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.022eb82c.chunk.css",
+    "main.js": "/portfolio/static/js/main.bf417819.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bf417819.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.75c69042.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.75c69042.js.map",
+    "static/js/2.f8ef4d6c.chunk.js": "/portfolio/static/js/2.f8ef4d6c.chunk.js",
+    "static/js/2.f8ef4d6c.chunk.js.map": "/portfolio/static/js/2.f8ef4d6c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.bb8d5eb2de489edb9aeb942cdfbb2c52.js": "/portfolio/precache-manifest.bb8d5eb2de489edb9aeb942cdfbb2c52.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/portfolio/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.f8ef4d6c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f8ef4d6c.chunk.js.LICENSE.txt",
+    "static/media/DSC_0285.jpg": "/portfolio/static/media/DSC_0285.86e7b0fa.jpg",
+    "static/media/ResumeBibekDas.pdf": "/portfolio/static/media/ResumeBibekDas.8087b38c.pdf",
+    "static/media/bibekdas.jpg": "/portfolio/static/media/bibekdas.80399d60.jpg",
+    "static/media/highradius.png": "/portfolio/static/media/highradius.8f56e794.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c69042.js",
+    "static/js/2.f8ef4d6c.chunk.js",
+    "static/css/main.022eb82c.chunk.css",
+    "static/js/main.bf417819.chunk.js"
+  ]
+}
