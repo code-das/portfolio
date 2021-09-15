@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/bibekdas.jpg"),
   imageSize: 375,
   message:
-    "My name is Bibek Das. I’m about to graduate in 2022 from Kalinga Institute of Industrial Technology at Bhubaneshwar India with a degree in Electronics and Telecommunication Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I love clicking picutres and play basketball on weekends!",
+    "My name is Bibek Das. I’m about to graduate in 2022 from Kalinga Institute of Industrial Technology at Bhubaneshwar India with a degree in Electronics and Telecommunication Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I love clicking pictures and play basketball on weekends!",
   resume: require("../editable-stuff/ResumeBibekDas.pdf"),
 };
 
