@@ -11,5 +11,3 @@
     <a href="https://code-das.github.io">About Me</a>
   </p>
 </p>
-
-[![Site preview](/public/social-image.png)](https://code-das.github.io/portfolio)
