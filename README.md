@@ -11,9 +11,8 @@
     <a href="https://code-das.github.io">About Me</a>
   </p>
 </p>
-<<<<<<< HEAD
 
-[![Site preview](/public/Capture.PNG)](https://code-das.github.io/portfolio)
+[![Site preview](/public/bibekHome.png)](https://code-das.github.io/portfolio)
 
 ## Table of Contents
 
